@@ -60,10 +60,10 @@ $ npm start
 
 ## Endpoints
 
-
+```
 /users	Lists all available users
 /products	Lists all available products
 /orders	Lists all available orders
 /favourites	Lists all available favourites
 
-
+```
