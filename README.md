@@ -25,7 +25,6 @@ The goal of this project is to build a responsible e-commerce platform using mod
 ## Tech Stack Used
 
 ![React](https://img.shields.io/badge/react.js-6DA55F?style=for-the-badge&logo=react.js&logoColor=blue)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
@@ -58,4 +57,13 @@ $ npm run server
 ```
 $ npm start
 ```
+
+## Endpoints
+
+
+/users	Lists all available users
+/products	Lists all available products
+/orders	Lists all available orders
+/favourites	Lists all available favourites
+
 
