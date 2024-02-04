@@ -83,6 +83,15 @@ $ npm start
 
 ```
 
+
+### SignUp 
+![WhatsApp Image 2024-02-04 at 7 08 55 AM](https://github.com/ayush645/tanX.fi/assets/80757890/52c86253-e7ed-4210-9ce3-c07dc58db16d)
+
+
+
+### Signin
+![WhatsApp Image 2024-02-04 at 7 08 55 AM(1)](https://github.com/ayush645/tanX.fi/assets/80757890/e724c633-3bd2-4d7d-bfae-259d6328f0b6)
+
 ## All Products
 ![WhatsApp Image 2024-02-04 at 6 54 33 AM(2)](https://github.com/ayush645/tanX.fi/assets/80757890/a5193023-fa08-4bc0-86ec-07d2dcdce2ad)
 
