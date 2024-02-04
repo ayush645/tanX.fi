@@ -4,6 +4,9 @@
 
 <div align="center">
 
+
+![WhatsApp Image 2024-02-04 at 6 54 33 AM(2)](https://github.com/ayush645/tanX.fi/assets/80757890/4c2b1533-ffe5-4d41-a63b-ae5c781e0d6a)
+
   <a href="">![Website shields.io](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)</a>
   <a href="">![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)</a>
   <a href="">![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)</a>
