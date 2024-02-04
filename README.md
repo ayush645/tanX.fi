@@ -15,7 +15,6 @@
   <a href="">[![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)</a>
 </div>
 
-<p align="Center"><a href="https://loan-eligibility.onrender.com/" > 🌐 Visit Me Now 🌐</a></p>
 
 
 ## Understanding Problem Statement
