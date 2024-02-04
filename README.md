@@ -73,7 +73,17 @@ $ npm start
 /orders	 -    Lists all available orders
 
 
+
 /favourites - Lists all available favourites
 
 
 ```
+
+
+![WhatsApp Image 2024-02-04 at 6 54 33 AM(2)](https://github.com/ayush645/tanX.fi/assets/80757890/a5193023-fa08-4bc0-86ec-07d2dcdce2ad)
+
+![WhatsApp Image 2024-02-04 at 6 54 32 AM](https://github.com/ayush645/tanX.fi/assets/80757890/286e235b-832c-4933-bf78-4b98fc822782)
+
+![WhatsApp Image 2024-02-04 at 6 54 33 AM(1)](https://github.com/ayush645/tanX.fi/assets/80757890/4e52a0ae-cafc-4462-8c1a-93e7923c5960)
+![WhatsApp Image 2024-02-04 at 6 54 32 AM(1)](https://github.com/ayush645/tanX.fi/assets/80757890/fc4b0215-bb24-4967-8257-2c84f73fa53c)
+
